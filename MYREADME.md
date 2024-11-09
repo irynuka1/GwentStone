@@ -1,6 +1,6 @@
-# Tema #324CA - COITU SEBASTIAN-TEODOR
+324CA - COITU SEBASTIAN-TEODOR
 
-În acest readme voi descrie modul în care am implementat tema, urmând fluxul programului.
+#### În acest readme voi descrie modul în care am implementat tema, urmând fluxul programului.
 
 ## Implementare
 
