@@ -49,6 +49,6 @@ Implementarea temei începe în clasa `Main`, unde se preiau datele de intrare �
 
 ## Feedback
 
-Per total, tema a fost destul de interesantă și m-a ajutat să mă familiarizez cu limbajul Java și cu o parte din conceptele de OOP. Deși nu am implementat moșteniri sau interfețe, am considerat că rezolvarea acestei teme se poate realiza mai ușor fără acestea. 
+Per total, tema a fost destul de interesantă și m-a ajutat să mă familiarizez cu limbajul Java și cu o parte din conceptele de OOP. Deși nu am implementat moșteniri sau interfețe, am considerat că rezolvarea acestei teme se poate realiza mai ușor fără acestea. De exemplu, moștenirile să zic că m-ar fi ajutat doar la abilități pentru a nu mai apela acel AbilitySelector, însă ar fi însemnat să adaug multe clase.
 
 Inițial, a durat puțin până am înțeles cum să implementez tema și de unde să încep, însă pe parcursul implementării devenea din ce în ce mai ușor. Am avut o problemă cu flag-ul `gameEnded` (static) pe care l-am adăugat mai târziu în program și am uitat să îl adaug și în metoda `initNewGame`, ce îl seta la `false` la începutul fiecărui joc. Acest lucru afecta toate testele ce urmau după testul 8 (acesta fiind primul care termina un joc). De asemenea, testele erau rulate într-o ordine aleatorie (7, 16, 12...), ceea ce m-a indus în eroare când încercam să rezolv problema menționată. După ce am ordonat testele, am reușit să îmi dau seama la ce test apărea problema.
